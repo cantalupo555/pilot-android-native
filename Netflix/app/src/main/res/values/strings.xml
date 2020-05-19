@@ -2,4 +2,8 @@
     <string name="app_name">Netflix</string>
     <string name="TextView1">House of Cards</string>
     <string name="TextView2">S01:E02</string>
+    <string name="Ico_Message">Message</string>
+    <string name="Ico_Volume">Volume</string>
+    <string name="Ico_Star">Star</string>
+    <string name="Ico_Copy">Copy</string>
 </resources>
