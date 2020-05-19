@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Netflix</string>
+    <string name="TextView1">House of Cards</string>
+    <string name="TextView2">S01:E02</string>
 </resources>
