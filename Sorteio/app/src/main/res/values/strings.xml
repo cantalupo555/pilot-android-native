@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Sorteio</string>
+    <string name="textView">Esolha um número de 0 a 10</string>
+    <string name="button">Sortear</string>
+    <string name="textView2">Nenhum número sorteado</string>
 </resources>
