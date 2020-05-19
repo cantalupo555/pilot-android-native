@@ -6,4 +6,10 @@
     <string name="Ico_Volume">Volume</string>
     <string name="Ico_Star">Star</string>
     <string name="Ico_Copy">Copy</string>
+    <string name="Image_Title_Main">House</string>
+    <string name="Timer1">01:30</string>
+    <string name="Timer2">55:17</string>
+    <string name="Ico_Back">Back</string>
+    <string name="Ico_Play">Play</string>
+    <string name="Ico_Pause">Pause</string>
 </resources>
