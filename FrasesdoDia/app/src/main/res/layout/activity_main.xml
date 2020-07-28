@@ -29,6 +29,7 @@
         android:layout_width="104dp"
         android:layout_height="50dp"
         android:layout_marginTop="40dp"
+        android:onClick="gerarNovaFrase"
         android:text="@string/text1"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
